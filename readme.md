@@ -2,7 +2,7 @@
 MathOps is ready for HacktoberFest
 ![Image](images/image.png)
 
-
+### MathOps
 <br/>
 <p align="center">
   <a href="https://github.com/Sparklinstar/MathOps-Toolkit">
