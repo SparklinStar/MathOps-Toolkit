@@ -1,4 +1,8 @@
-# Custom Python Data Types for Mathematical Operations
+# MathOps Toolkit: Custom Python Data Types & GUI Calculator ; Open for contributions in hacktoberfest
+
+Welcome to the Hacktoberfest edition of our repository! We're excited to have you on board as a contributor. Our goal is to expand this repository by adding custom Python data types for mathematical operations and building a GUI calculator using these data types by the end of October.
+
+## Custom Python Data Types for Mathematical Operations
 
 This repository contains custom Python data types for various mathematical operations. These data types are designed to help you work with mathematical concepts and operations in a structured and efficient manner. Below, you'll find a list of the available custom data types along with a brief description of each:
 
@@ -34,24 +38,22 @@ This repository contains custom Python data types for various mathematical opera
 ### 10. Quaternion
 - A custom data type to represent quaternions, which are used in 3D rotations. It includes methods for quaternion multiplication, conjugation, and rotation operations.
 
-## Usage
-To use any of these custom data types in your Python projects, simply clone this repository and import the desired data type into your Python script or Jupyter Notebook.
+## Hacktoberfest Contributions
 
-```python
-from custom_datatypes import Matrix
+For Hacktoberfest, we encourage you to contribute in the following ways:
 
-# Create a matrix instance
-matrix = Matrix([[1, 2], [3, 4]])
+1. **Implement Missing Data Types:** Help us complete the list of custom data types mentioned above. Choose a data type, create a Python class for it, and implement the relevant mathematical operations.
 
-# Perform matrix operations
-result = matrix + matrix
-print(result)
-```
+2. **GUI Calculator:** As an additional challenge, we invite you to create a GUI calculator using these custom data types. You can use libraries like Tkinter, PyQt, or any other GUI framework you prefer. The calculator should support basic mathematical operations and utilize our custom data types.
 
-## Contributions
-Contributions to this repository are welcome! If you have ideas for additional custom data types or improvements to existing ones, please submit a pull request.
+To contribute, please fork this repository, make your changes, and submit a pull request. We'll review your contributions and merge them into the project.
+
+## Getting Started
+
+To get started, clone this repository to your local machine and explore the existing data types and code. Feel free to reach out if you have questions or need assistance with your contributions.
 
 ## License
+
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Feel free to explore and utilize these custom data types for your mathematical projects and calculations. Enjoy working with structured mathematical concepts in Python!
+Thank you for joining us in this Hacktoberfest journey! Let's make this repository a valuable resource for Python developers interested in mathematical operations and GUI development.
