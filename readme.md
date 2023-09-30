@@ -1,4 +1,4 @@
-# Hacktoberfest Custom Python Data Types and GUI Calculator
+# MathOps Toolkit: Custom Python Data Types & GUI Calculator ; Open for contributions in hacktoberfest
 
 Welcome to the Hacktoberfest edition of our repository! We're excited to have you on board as a contributor. Our goal is to expand this repository by adding custom Python data types for mathematical operations and building a GUI calculator using these data types by the end of October.
 
