@@ -35,13 +35,6 @@
 * [Authors](#authors)
 * [Acknowledgements](#acknowledgements)
 
-## About The Project
-
-![Screen Shot](images/screenshot.png)
-
-Certainly! Here's the "About This Project" description with "we" changed to "I" to make it more personalized:
-
----
 
 ## About This Project
 
