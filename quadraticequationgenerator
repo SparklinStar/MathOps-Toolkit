@@ -1,0 +1,12 @@
+import cmath  # Import the cmath module for complex number support.
+
+def solve_quadratic(a, b, c):
+    # Calculate the discriminant using the quadratic formula.
+    discriminant = cmath.sqrt(b**2 - 4*a*c)
+    
+    # Calculate the two roots of the quadratic equation.
+    root1 = (-b + discriminant) / (2*a)  # The first root.
+    root2 = (-b - discriminant) / (2*a)  # The second root.
+    
+    # Return the roots as a tuple.
+    return root1, root2
